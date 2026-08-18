@@ -1,6 +1,7 @@
 <div align="center">
 
 # Vladislav Fedoseev / mu2ka
+Student of the Faculty of Mechanics and Mathematics, Applied Mathematics and Computer Science
 
 [![Telegram](https://img.shields.io/badge/Telegram-@VMFqq-26A5E4?logo=telegram&logoColor=white)](https://t.me/VMFqq)
 [![Kaggle](https://img.shields.io/badge/Kaggle-mu2kagg-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/mu2kagg)
@@ -14,7 +15,7 @@
 <tr>
 <td width="25%" valign="top">
 
-### ML 
+### ML
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
@@ -43,17 +44,16 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
-
 </td>
 <td width="25%" valign="top">
 
-### Math
-![Математический анализ](https://img.shields.io/badge/Математический%20анализ-374151)
-![Линейная алгебра](https://img.shields.io/badge/Линейная%20алгебра-9ca3af)
-![Дифференциальные уравнения](https://img.shields.io/badge/Дифференциальные%20уравнения-1f2937)
-![Теория вероятностей](https://img.shields.io/badge/Теория%20вероятностей-4b5563)
-![Вычислительные методы](https://img.shields.io/badge/Вычислительные%20методы-6b7280)
+### Mathematics
 
+![Mathematical Analysis](https://img.shields.io/badge/Mathematical%20Analysis-374151)
+![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-9ca3af)
+![Differential Equations](https://img.shields.io/badge/Differential%20Equations-1f2937)
+![Probability Theory](https://img.shields.io/badge/Probability%20Theory-4b5563)
+![Computational Methods](https://img.shields.io/badge/Computational%20Methods-6b7280)
 
 </td>
 </tr>
@@ -61,9 +61,8 @@
 
 ---
 
-## Проекты
-
+## Projects  
 - **[Bitcoin Realized Volatility Forecasting](https://github.com/Mu2Ka/LSTM-Forecast_of-realized-Bitcoin-Volatility)** - прогнозирование 24-часовой реализованной волатильности Bitcoin по часовым рыночным данным с сравнением LSTM, RNN, GRU и AutoETS.
-- **[Home Credit Default Risk](https://github.com/Mu2Ka/Credit-Default-Risk-mu2ka)** - ML-пайплайн для оценки вероятности кредитного дефолта с feature engineering, LightGBM и оптимизацией гиперпараметров через Optuna.
-- **[Steel Defect Multi-Label Classification](https://github.com/Mu2Ka/Steel-Defect-Multi-Label-Classification)** - многометочная классификация дефектов стали на табличных данных с one-vs-rest подходом, генерацией признаков и подбором моделей.
-- **[Iris ML API](https://github.com/Mu2Ka/Example-project-using-Docker-Kubernetes-and-MLflow)** -  ML-проект с обучением модели, трекингом в MLflow и контейнеризированным API на Docker и Kubernetes.
+- **[Home Credit Default Risk](https://github.com/Mu2Ka/Credit-Default-Risk-mu2ka)** - ML-проект для оценки вероятности кредитного дефолта с feature engineering,агрегированием 8 источников данных, LightGBM и оптимизацией гиперпараметров через Optuna.
+- **[Steel Defect Multi-Label Classification](https://github.com/Mu2Ka/Steel-Defect-Multi-Label-Classification)** - многоклассовая классификация дефектов стали на табличных данных с one-vs-rest подходом, генерацией признаков и подбором моделей.
+- **[Iris ML API](https://github.com/Mu2Ka/Example-project-using-Docker-Kubernetes-and-MLflow)** - ML-проект с обучением модели, трекингом в MLflow и контейнеризированным API на Docker и Kubernetes.
